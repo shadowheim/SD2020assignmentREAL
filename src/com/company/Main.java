@@ -9,6 +9,7 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             int result = i*num;
             System.out.println(num + " x " + "" + args[0]);
+            System.out.println("merge!");
         }
     }
 }
